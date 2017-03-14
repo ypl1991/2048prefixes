@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
+  background: #d4f8fc;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #279eea;
   border-radius: 6px;
   width: 500px;
   height: 500px;
